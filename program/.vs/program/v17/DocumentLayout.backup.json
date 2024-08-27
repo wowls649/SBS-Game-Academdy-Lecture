@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wowls\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\program\\",
+  "WorkspaceRootPath": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DC9D5DA-56CA-4692-813C-33875D25ECEF}|program.vcxproj|C:\\Users\\wowls\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D88A1135-7CA2-4280-A007-4413BCA32B3E}|..\\Class1th (printf)\\Class1th (printf).vcxproj|C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class1th (printf)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC9D5DA-56CA-4692-813C-33875D25ECEF}|program.vcxproj|C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0DC9D5DA-56CA-4692-813C-33875D25ECEF}|program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +23,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\wowls\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\program\\Source.c",
+              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class1th (printf)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class1th (printf)\\Source.c",
+              "ToolTip": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class1th (printf)\\Source.c*",
+              "RelativeToolTip": "..\\Class1th (printf)\\Source.c*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-27T11:08:20.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\wowls\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\program\\Source.c*",
-              "RelativeToolTip": "Source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\program\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-16T04:49:23.785Z",
               "EditorCaption": ""
