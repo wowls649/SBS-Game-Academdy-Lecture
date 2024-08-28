@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94E27AF2-A5FD-4628-A8AB-39CD6B36E10C}|..\\Class4th (Overflow \u0026  Underflow)\\Class4th (Overflow \u0026  Underflow).vcxproj|C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class4th (Overflow \u0026  Underflow)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ACB64EB1-3BD9-4A00-A4C4-A34629FE860C}|..\\class5th (Conditional statement)\\class5th (Conditional statement).vcxproj|C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\class5th (Conditional statement)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,25 +13,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class4th (Overflow \u0026  Underflow)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class4th (Overflow \u0026  Underflow)\\Source.c",
-              "ToolTip": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class4th (Overflow \u0026  Underflow)\\Source.c",
-              "RelativeToolTip": "..\\Class4th (Overflow \u0026  Underflow)\\Source.c",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwLAAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\class5th (Conditional statement)\\Source.c",
+              "RelativeDocumentMoniker": "..\\class5th (Conditional statement)\\Source.c",
+              "ToolTip": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\class5th (Conditional statement)\\Source.c",
+              "RelativeToolTip": "..\\class5th (Conditional statement)\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-28T10:57:03.186Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-08-28T12:24:28.283Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
