@@ -3,17 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23854C16-CFF8-4CCF-BC6C-29E2704C627F}|..\\class2th (variable \u0026 Constant)\\class2th (variable \u0026 Constant).vcxproj|C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\class2th (variable \u0026 Constant)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DC9D5DA-56CA-4692-813C-33875D25ECEF}|program.vcxproj|C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0DC9D5DA-56CA-4692-813C-33875D25ECEF}|program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBAEF381-2A34-45E8-933A-06442D23A3F1}|..\\Class 1th (printf)\\Class 1th (printf).vcxproj|C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class 1th (printf)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class1th (printf)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D59C6781-1B83-445C-8CBF-26A503711DEC}|..\\Class3th (bit)\\Class3th (bit).vcxproj|C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class3th (bit)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,34 +13,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class 1th (printf)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class 1th (printf)\\Source.c",
-              "ToolTip": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class 1th (printf)\\Source.c",
-              "RelativeToolTip": "..\\Class 1th (printf)\\Source.c",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-27T11:17:30.995Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class1th (printf)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class1th (printf)\\Source.c",
-              "ToolTip": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class1th (printf)\\Source.c",
-              "RelativeToolTip": "..\\Class1th (printf)\\Source.c",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-27T11:08:20.906Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -59,26 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\class2th (variable \u0026 Constant)\\Source.c",
-              "RelativeDocumentMoniker": "..\\class2th (variable \u0026 Constant)\\Source.c",
-              "ToolTip": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\class2th (variable \u0026 Constant)\\Source.c",
-              "RelativeToolTip": "..\\class2th (variable \u0026 Constant)\\Source.c",
-              "ViewState": "AgIAADoAAAAAAAAAAAAtwEIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class3th (bit)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class3th (bit)\\Source.c",
+              "ToolTip": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\Class3th (bit)\\Source.c*",
+              "RelativeToolTip": "..\\Class3th (bit)\\Source.c*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-27T11:55:15.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\program\\Source.c",
-              "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\wowls\\Desktop\\SBS-Game-Academdy-Lecture\\program\\Source.c",
-              "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-16T04:49:23.785Z",
+              "WhenOpened": "2024-08-28T08:33:11.118Z",
               "EditorCaption": ""
             }
           ]
