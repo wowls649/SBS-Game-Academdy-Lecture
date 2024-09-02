@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "GameManager.h"
+#include "..//program/GameManager.h"
 
 void main()
 {
@@ -29,6 +29,7 @@ void main()
 	// 
 	// *ptr = 99;
 	// 
+	// printf("ptr 변수의 주소값 : %p\n", &ptr);
 	// printf("ptr 변수의 값 : %p\n", ptr);
 	// printf("x 변수의 주소 값 : %p\n", &y);
 	// printf("x변수의 값 : %d\n", y);
@@ -56,6 +57,10 @@ void main()
 	// 프로그램이 컴파일러가 이전에 프로그램에 대한
 	// 사천 처리를 하는 과정이다.
 
+	//time = 15.0f;
+
+	//printf("time 변수의 값 : %f\n", time);
+
 	//전처리기는 컴파일러가 아닌 선행처리기에 의해서
 	// 처리되는 문장이기 때문에 명령문 끝에 ";"을
 	// 사용하지 않습니다.
@@ -64,6 +69,25 @@ void main()
 
 
 
+#pragma endregion
+
+#pragma region 메크로
+	//프로그램 내에서 특정한 데이터가 문지열로 정의 
+	// 되고 처리되는 과정입니다.
+
+	//print("메크로 SIZE의 값 : %d\n", SIZE);
+
+	// 메크로의 과정은 컴파일 이전에 실행되며, 각 메크로가
+	// 실행될 때 매크로의 대체 목적을 넣어야 하므로 프로그램의
+	// 크기가 커지게 됩니다.
+
+	//for (int i = 0; i < SIZE i++)
+	//{
+	//	printf("Update\n");
+	//}
+
+	//메크로 의 경우 자료형이 존재하지 않으므로 메모리 
+	// 공간을 가지고 있지 않습니다.
 #pragma endregion
 
 
